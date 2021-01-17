@@ -1,0 +1,10 @@
+AI Notes: Initializing neural networks
+https://www.deeplearning.ai/ai-notes/initialization/
+
+GRU vs LSTM
+https://arxiv.org/abs/1412.3555
+
+Why Tanh in LSTM
+https://stackoverflow.com/questions/40761185/what-is-the-intuition-of-using-tanh-in-lstm
+(And replace it with rely)
+https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM
