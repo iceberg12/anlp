@@ -1,0 +1,13 @@
+Hướng dẫn làm bài: 
+- Mỗi học viên đã được cung cấp sẵn File Template, các bạn mở File trên hệ thống Google Classroom và làm trực tiếp vào trong Colab Notebook.
+- Học viên chỉ cần phải hoàn thành những vị trí có xuất hiện: "########### YOUR CODE HERE #################"
+- Sau khi hoàn thành, học viên ấn "Turn In" trên hệ thống Google Classroom để nộp bài.
+
+Thời hạn: 11:59 PM - 04/03/2021 (GMT 7+)
+
+Chú ý:
+- Không thêm bất kỳ Cell nào khác (các bạn có thể thêm để thử nghiệm, nhưng khi nộp bài thì hãy xóa các Cell mà bạn đã thêm).
+- Chạy toàn bộ Code trước khi nộp.
+- Bài tập này là phần 01, phần 02 sẽ được đăng sau khi học xong Decoder. Phần bài tập về NMT chiếm 25% số điểm của lớp học.
+
+Mọi thắc về bài tập / cách sử dụng Google Classroom các bạn có thể hỏi đáp trực tiếp trên Slack ! 

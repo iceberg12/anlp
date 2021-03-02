@@ -1,0 +1,2 @@
+- Đọc lại nội dung về cấu trúc mạng LSTM / Bi-LSTM.
+- Đọc trước Slide về "Variants of RNN"

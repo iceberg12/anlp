@@ -1,0 +1,5 @@
+Stanford NMT: http://web.stanford.edu/class/cs224n/slides/cs224n-2020-lecture08-nmt.pdf
+
+Original seq2seq+attention paper: https://arxiv.org/pdf/1409.0473.pdf
+
+BLEU Score: https://www.aclweb.org/anthology/P02-1040.pdf

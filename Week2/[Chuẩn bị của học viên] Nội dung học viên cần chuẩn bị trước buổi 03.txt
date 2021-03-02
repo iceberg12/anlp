@@ -1,0 +1,5 @@
+- Đọc lại nội dung về cấu trúc mạng LSTM / Bi-LSTM.
+- Ôn tập lại thư viện TensorFlow / Pytorch.
+- Tìm hiểu trước bộ dữ liệu imdb-review.
+- [Paper] Text Classification using Convolution.
+- [Video] Xây dựng mạng SimpleRNN, LSTM, Bi-directional.

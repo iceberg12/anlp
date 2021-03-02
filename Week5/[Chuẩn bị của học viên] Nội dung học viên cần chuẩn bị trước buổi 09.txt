@@ -1,0 +1,11 @@
+Tóm tắt nhanh:
+- Về Task dịch máy, mô hình này ưu việt và chính xác hơn Seq2Seq (Encoder-Decoder dựa trên RNN).
+- Mô hình Encoder - Decoder chỉ sử dụng cơ chế Attention (nên mọi người cần xem lại cơ thế này trước buổi học).
+- Có thể tính toán song song để tăng tốc độ.
+
+Trong kiến trúc có 3 điểm cần chú ý:
+- Cấu trúc Encoder - Decoder
+- Attention
+- Position-wise (Feed Forward Network)
+
+Transformer cũng là nền tảng của các mô hình SoTA hiện tại như BERT, XLNet, GPT,… 

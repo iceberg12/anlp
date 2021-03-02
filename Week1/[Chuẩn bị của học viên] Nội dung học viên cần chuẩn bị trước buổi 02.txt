@@ -1,0 +1,11 @@
+- Xem qua trước Slide buổi 02 đã được đăng tải về "Language mode và kiến trúc mạng RNN". Có thể thảo luận trên Slack trong Channel "Discussions".
+- Xem qua trước phần thực hành Colab Template về bài toán phân loại nhị phân với bộ dữ liệu "imdb_reviews".
+
+- Một số Video có thể xem qua trước để đạt hiệu quả cao trong lớp học:
++ Video Language Model and Recurrent Neural Network: 
+https://www.youtube.com/watch?v=t0EoeTYU-fc&list=PLMm4sOMuA2QI5x_0KlNT3LuKDi6-ByboB&index=21
+
++ Video Xây dựng mạng SimpleRNN, LSTM, Bi-directional: 
+https://www.youtube.com/watch?v=X6bYTZJkEDQ&list=PLMm4sOMuA2QI5x_0KlNT3LuKDi6-ByboB&index=22
+
+Video record 

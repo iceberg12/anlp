@@ -1,1 +1,14 @@
-Series Deep Learning: https://www.youtube.com/watch?v=j5HxIJoOJms&list=PLMm4sOMuA2QI5x_0KlNT3LuKDi6-ByboB&index=1
+AI Notes: Initializing neural networks
+https://www.deeplearning.ai/ai-notes/initialization/
+
+GRU vs LSTM
+https://arxiv.org/abs/1412.3555
+
+Why Tanh in LSTM
+https://stackoverflow.com/questions/40761185/what-is-the-intuition-of-using-tanh-in-lstm
+(And replace it with rely)
+https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM
+
+MLE
+https://drive.google.com/open?id=1Mese_b_qKinVmqfOhqnMMjI--Cft-W9p&authuser=1
+https://drive.google.com/open?id=1cso2dE45qfj4Vja-3Fn4VfNKjlhJNVqD&authuser=1

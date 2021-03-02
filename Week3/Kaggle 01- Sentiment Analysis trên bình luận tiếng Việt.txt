@@ -1,0 +1,8 @@
+Liên kết tới cuộc thi: https://www.kaggle.com/t/274964a9d6154d839efdfe4b402bbd2c
+Chú ý: 
+- Đặt tên là Email của bạn (bỏ phần sau @, Ví dụ: chuvitcon@gmail.com -> đặt tên là: chuvitcon)
+- Thời gian: hết 24h ngày 6/2/2021.
+- Phần Kaggle này chiếm 10% điểm của lớp học.
+- Cách tính điểm sẽ dựa vào % dự đoán chính xác của bạn trên Private Leaderboard.
+- Trong tuần đầu tiên sẽ không có hướng dẫn, các bạn đọc kỹ yêu cầu đề bài và tìm cách cho dữ liệu vào và dự đoán kết quả.
+Tuần thứ 2 (Ngày 29/1) sẽ có hướng dẫn chi tiết dành cho các bạn chưa làm được.

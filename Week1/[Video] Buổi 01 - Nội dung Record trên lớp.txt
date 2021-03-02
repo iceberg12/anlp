@@ -1,0 +1,9 @@
+Nội dung bao gồm 2 phần:
+- Phần 1: Cơ hội nghề nghiệp với NLP
+- Phần 2: Khái quát nội dung cơ bản NLP 
+
+1.1 Giới thiệu Xử lý ngôn ngữ tự nhiên
+https://drive.google.com/open?id=13JW-91jdPAHx91npWXfHYwdJeD07bCRb&authuser=1
+
+1.2 Ứng dụng Deep Learning vào trong NLP
+https://drive.google.com/open?id=1d_SC63E9bqH_cESM9BTg5OlJbmFGBoXg&authuser=1

@@ -1,10 +1,5 @@
-AI Notes: Initializing neural networks
-https://www.deeplearning.ai/ai-notes/initialization/
+Bidirectional Recurrent Neural Networks
+https://d2l.ai/chapter_recurrent-modern/bi-rnn.html
 
-GRU vs LSTM
-https://arxiv.org/abs/1412.3555
-
-Why Tanh in LSTM
-https://stackoverflow.com/questions/40761185/what-is-the-intuition-of-using-tanh-in-lstm
-(And replace it with rely)
-https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM
+[Video] N-gram Language Model
+https://drive.google.com/open?id=1S0Xgop2HpJQuKKZ-LJSAzdyM-Dcm1RlJ&authuser=1

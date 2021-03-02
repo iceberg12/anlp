@@ -1,0 +1,2 @@
+Day 05 (Deep RNN + Seq2Seq)
+https://drive.google.com/open?id=1WSafYeUofNi_GBnnxBiQ03CRdmadBZOn&authuser=1

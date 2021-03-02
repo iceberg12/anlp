@@ -1,0 +1,5 @@
+Nội dung buổi 02:
+- Ôn tập kiến thức về Machine Learning / Deep Learning.
+- Mô hình RNN cơ bản.
+
+https://drive.google.com/open?id=1c70_72xvujKmPmdXcGDUV6PFuLdQ4XuJ&authuser=1
